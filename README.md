@@ -94,5 +94,4 @@ To use any of these functions, simply call them from the `Main` class. Each func
 ## Contributing
 Feel free to contribute by adding more algorithms or improving existing ones. Fork this repository, make your changes, and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
